@@ -1,2 +1,2 @@
-Contenido de ejemplo
-lipsum 
+Contenido de ejemplo, resolviendo conflictos
+lipsum conflictos
